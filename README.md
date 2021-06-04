@@ -4,3 +4,5 @@
 3. Star Wars: Das Imperium schlägt zurück
 4. Star Wars: Die Rückkehr der Jedi-Ritter
 5. Star Wars: Episode II - Angriff der Klonkrieger
+
+Autor: Daniel Krancz
